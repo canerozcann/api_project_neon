@@ -1,0 +1,48 @@
+name: uiwidgets
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+
+  cupertino_icons: ^1.0.8
+  auto_route: ^9.3.0+1
+  flutter_svg: ^2.1.0
+  image_picker: ^1.1.2
+  google_fonts: ^6.2.1
+  flutter_colorpicker: ^1.1.0
+  url_launcher: ^6.3.1
+  shimmer: ^3.0.0
+  lottie: ^3.2.0
+  dio: ^5.8.0+1
+  intl: ^0.20.2
+  swipable_stack: ^2.0.0
+  sqflite: ^2.4.1
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  build_runner: any
+  auto_route_generator: any
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
