@@ -1,16 +1,21 @@
-# api_project_neon
+# Flutter Project – API Integration & UI Case Examples
 
-A new Flutter project.
+This Flutter project demonstrates a variety of use cases commonly needed in real-world mobile app development. It includes examples and implementations of the following:
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔧 Features & Use Cases
 
-A few resources to get you started if this is your first Flutter project:
+- **API Integration** with real-time data fetching
+- **HTTP Requests** using the Dio package
+- **Local Storage** with both SQLite and Hive
+- **Smooth Screen Animations** and transitions
+- Organized and reusable **UI components**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/canerozcann/api_project_neon.git
