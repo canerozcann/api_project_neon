@@ -10,6 +10,6 @@ class AppRouter extends RootStackRouter {
         AutoRoute(page: NewsDetailRoute.page),
         AutoRoute(page: AddNewPersonRoute.page),
         AutoRoute(page: AnimationRoute.page),
-        AutoRoute(page: HeroRoute.page)
+        AutoRoute(page: HeroRoute.page),
       ];
 }

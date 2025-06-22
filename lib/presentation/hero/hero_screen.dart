@@ -1,6 +1,8 @@
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:uiwidgets/presentation/widgets/custom_app_bar.dart';
 
+@RoutePage()
 class HeroScreen extends StatefulWidget {
   const HeroScreen({super.key});
 
